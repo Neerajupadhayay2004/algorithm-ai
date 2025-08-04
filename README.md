@@ -4,6 +4,11 @@ A comprehensive algorithm learning and visualization platform built with Next.js
 
 🌐 **Live Demo**: [https://algorithm01.netlify.app/](https://algorithm01.netlify.app/)
 
+<img width="1920" height="1080" alt="Screenshot at 2025-08-05 02-29-34" src="https://github.com/user-attachments/assets/81b1043b-66d6-4a63-9b73-edc7804ad842" />
+<img width="1920" height="1080" alt="Screenshot at 2025-08-05 02-29-46" src="https://github.com/user-attachments/assets/84c4c7a2-8187-4d45-9557-9901df0d4151" />
+<img width="1920" height="1080" alt="Screenshot at 2025-08-05 02-29-54" src="https://github.com/user-attachments/assets/018002bc-d53c-4b20-a382-ff420e33dd3d" />
+<img width="1920" height="1080" alt="Screenshot at 2025-08-05 02-30-03" src="https://github.com/user-attachments/assets/7e1f0a31-d43d-4fb6-b844-ee46714a426d" />
+<img width="1920" height="1080" alt="Screenshot at 2025-08-05 02-30-09" src="https://github.com/user-attachments/assets/18be846c-c751-420a-9027-33332353160f" />
 ## 🚀 Features
 
 - 🧠 **Algorithm Library** - Extensive collection of algorithms with explanations
